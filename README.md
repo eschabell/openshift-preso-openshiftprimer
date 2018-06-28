@@ -1,3 +1,6 @@
+Update: June 2018 moved to [Gitlab](https://gitlab.com/eschabell/openshift-preso-openshiftprimer)
+
+
 Running on OpenShift
 --------------------
 Get a copy of the OpenShift Primer presentation online with this project.
